@@ -91,12 +91,13 @@ Document Question Answering system using LangChain, FAISS and LLMs.
 ### 📚 LearnIQ
 Agentic AI Study Coach powered by LangGraph and RAG.
 
-## 📈 GitHub Stats
+## 📊 GitHub Analytics
 
-![Tanisha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tanisha800&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tanisha800&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanisha800&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanisha800&layout=compact&theme=tokyonight)
+## 📈 Contribution Graph
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Tanisha800&theme=tokyonight)
-
-
+[![Tanisha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Tanisha800&theme=github-dark&hide_border=true)](https://github.com/Tanisha800)
